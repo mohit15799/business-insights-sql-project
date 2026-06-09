@@ -1,5 +1,7 @@
 # Business Insights & Supply Chain Analytics Using SQL
 
+![Forecast Accuracy](Outputs/05_Forecast_Accuracy.PNG)
+
 ## Project Overview
 
 This project analyzes sales performance, customer contribution, market share, product demand, and forecast accuracy using SQL. The objective is to generate actionable business insights that support sales planning, market expansion, and supply chain decision-making.
