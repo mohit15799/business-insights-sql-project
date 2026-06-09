@@ -1,4 +1,4 @@
-# Business Insights SQL Project
+# Business Insights & Supply Chain Analytics Using SQL
 
 ## Project Overview
 
